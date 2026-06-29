@@ -49,15 +49,11 @@ Elles identifient les cas où le plafond général ne s’applique pas, par exem
 
 Un plafond peut être contestable s’il aboutit, compte tenu du contrat, à neutraliser l’obligation essentielle du débiteur. Le risque augmente lorsque le plafond est très bas et cumulé avec des exclusions larges.
 
-### Une exclusion trop générale
+### Une exclusion trop générale ou trop large
 
-Une clause qui exclut presque tous les préjudices significatifs peut priver la responsabilité de portée réelle. Dans les contrats numériques, l’exclusion totale de la perte de données, de l’indisponibilité ou des manquements de sécurité doit être appréciée au regard des prestations promises.
-
-### Une clause incohérente avec le contrat
+Une clause qui exclut presque tous les préjudices significatifs peut priver la responsabilité de portée réelle. Dans les contrats numériques, l’exclusion totale de la perte de données, de l’indisponibilité ou des manquements de sécurité doit être appréciée au regard des prestations promises. La clause peut alors tomber. 
 
 Il faut éviter de promettre une disponibilité élevée, une sécurité renforcée ou une réversibilité organisée, puis de vider ces obligations de toute sanction par une limitation trop large.
-
-### Une clause non négociée dans un contrat d’adhésion
 
 Lorsque la clause est déterminée à l’avance et non négociable, le contrôle du déséquilibre significatif peut devenir un sujet, selon le contexte contractuel et le régime applicable.
 
@@ -80,11 +76,9 @@ Une bonne clause limitative de responsabilité doit être :
 
 Une méthode pragmatique consiste à construire la clause en cinq temps :
 
-1. Identifier les obligations essentielles.
-2. Fixer le plafond général.
-3. Définir les préjudices exclus avec précision.
-4. Prévoir les exceptions ou plafonds renforcés.
-5. Ajouter une procédure de mise en jeu : notification, délai, coopération, limitation du dommage.
+1. Fixer un plafond général.
+2. Définir les préjudices exclus avec précision.
+3. Potentiellement prévoir les exceptions ou plafonds renforcés.
 
 ## 7. Point d’attention pour les contrats IT
 
@@ -100,9 +94,3 @@ Dans un contrat IT, le plafond ne doit pas être isolé du reste du contrat. Il 
 - les engagements de confidentialité ;
 - les assurances ;
 - les clauses de suspension ou de résiliation.
-
-## 8. Formule de synthèse
-
-La bonne question n’est pas seulement : « combien le fournisseur accepte-t-il de payer au maximum ? »
-
-La bonne question est : « la clause permet-elle encore de sanctionner utilement les manquements qui touchent au cœur du contrat ? »
