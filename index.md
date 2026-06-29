@@ -65,14 +65,3 @@ Une utilisation possible du kit :
 Ces documents sont des supports de travail généraux. Ils doivent être adaptés à chaque contrat, au rapport de force, à la nature du service, aux obligations essentielles, au niveau de risque et au droit applicable. Ils ne constituent pas un avis juridique individualisé.
 
 Kit pratique — Clause limitative de responsabilité. Ressources de travail à adapter selon les projets.
-
-
-## Fichiers du dépôt
-
-- `index.md` : page d’accueil GitHub Pages.
-- `notice-clause-limitative-responsabilite.md` : notice explicative.
-- `checklist-revue-clause-limitative-responsabilite.md` : grille de revue.
-- `clauses-types-limitatives-responsabilite.md` : clauses types et variantes.
-- `fiche-negociation-cap-responsabilite.md` : méthode de calibration du plafond.
-- `sources.md` : sources juridiques utiles.
-- `post-linkedin-lancement.md` : proposition de post LinkedIn.
